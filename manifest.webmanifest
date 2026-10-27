@@ -1,0 +1,9 @@
+{
+  "name": "Livret opérationnel SDE3–USAR",
+  "short_name": "Livret SDE3",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#b00000",
+  "icons": []
+}
